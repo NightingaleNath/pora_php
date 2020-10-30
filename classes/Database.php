@@ -2,10 +2,10 @@
 class Database{
     
     // CHANGE THE DB INFO ACCORDING TO YOUR DATABASE
-    private $db_host = 'localhost';
-    private $db_name = 'pora';
-    private $db_username = 'root';
-    private $db_password = '';
+    private $db_host = 'remotemysql.com';
+    private $db_name = 'hrUowNhGow';
+    private $db_username = 'hrUowNhGow';
+    private $db_password = 'SO3fCcpCjP';
     
     public function dbConnection(){
         
